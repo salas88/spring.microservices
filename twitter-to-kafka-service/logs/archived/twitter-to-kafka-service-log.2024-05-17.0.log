@@ -1,0 +1,5 @@
+2024-05-17 21:59:33 [main] INFO  d.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.2 with PID 26936 (C:\Users\v.hasporian\OneDrive - Playtech\Desktop\microservices-demo\twitter-to-kafka-service\target\classes started by v.hasporian in C:\Users\v.hasporian\OneDrive - Playtech\Desktop\microservices-demo)
+2024-05-17 21:59:33 [main] INFO  d.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-17 21:59:33 [main] INFO  d.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.547 seconds (process running for 0.971)
+2024-05-17 21:59:33 [main] INFO  d.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App start...
+2024-05-17 21:59:33 [main] INFO  d.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [-Java -Microservices -Spring -Kafka -Elasticsearch]

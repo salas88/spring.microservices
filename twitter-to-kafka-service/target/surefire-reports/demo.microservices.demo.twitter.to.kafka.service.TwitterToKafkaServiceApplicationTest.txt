@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: demo.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.713 s -- in demo.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTest
